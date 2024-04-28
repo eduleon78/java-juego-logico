@@ -1,18 +1,14 @@
-## Getting Started
+# Juego de logica en JAVA
+Realice un juego de logica en JAVA donde se debe ir colocando letra a letra, en la consola y se tiene cierta cantidad de intentos. Para ganar debe completar toda la palabra, en caso contrario si se acaban todos los intentos se pierde el juego.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Herramientas utilizadas
 
-## Folder Structure
+1. Clase Scanner
+2. Declaraciones y Asignaciones de variables
+3. Arreglos
+4. Estructura de control de flujo: Iterativa (Bucle)
+5. Clase String y sus metodos valueOf, charAt y length()
+6. Clase Character y su metodo toLowerCase
+7. Estructura de control: condicional
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[Link al repositorio](eduleon78)
